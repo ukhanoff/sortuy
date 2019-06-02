@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Сортуй - це просто
 
-You can use the [editor on GitHub](https://github.com/ukhanoff/no_waste_landing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Щоб вам було простіше долучатись до нашої свідомої спільноти, переглядати актуальні правила та приїжджати на станції сортування вчасно - тут закріплені всі актуальні посилання 🎉 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Посилання
 
-### Markdown
+♻️ Прийом вторсировини на #NoWasteRecyclingStation (Саперно-Слобідська): http://bit.ly/2HJwITi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+♻️ Прийом вторсировини на #SilpoRecycling: http://bit.ly/2HJywf2
 
-```markdown
-Syntax highlighted code block
+🔥Прийом на високотемпературне спалювання: http://bit.ly/2Kcrwcl
 
-# Header 1
-## Header 2
-### Header 3
+❌ Не приймаємо взагалі: http://bit.ly/2QCtLXF
 
-- Bulleted
-- List
+⌚️Розклад роботи та розташування станцій: http://bit.ly/2EKlvQC
 
-1. Numbered
-2. List
+👍 Послуга "Досортую": http://bit.ly/2QDsmjt
 
-**Bold** and _Italic_ and `Code` text
+🔋Ситуація з батарейками: http://bit.ly/2FWUHxS
 
-[Link](url) and ![Image](src)
-```
+🍌 Як компостувати органіку: https://bit.ly/2SFhjd3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+🚚 Куди подівся Майстер добрих справ: http://bit.ly/2WC9h3Q
 
-### Jekyll Themes
+⚡️ Наш канал у телеграмі: https://t.me/nowasteukraine
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ukhanoff/no_waste_landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+✍️ Записатися на екскурсію на станцію сортування: http://bit.ly/2UTJWoG
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+🧞‍♂ Стати волонтером: http://bit.ly/2VXbaq8
